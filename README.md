@@ -17,7 +17,7 @@ Since this is primarily an example of a publisher and listener interacting, the 
 
 How to Run
 '''
-git clone https://github.com/tridivb/Tennis_Ball_Detector_using_ROS_and_OpenCV.git
+git clone https://github.com/arun-venkat-23/Tennis-Ball-Tracker/tree/4545822b063e65719f0b98f342bc96ac9076b7f5
 cp -R Tennis_Ball_Detector_using_ROS_and_OpenCV/ros_service_assignment <path>/<ros_workspace>
 cd <path>/<ros_workspace>
 # eg. cd ~/catkin_ws
