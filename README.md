@@ -2,9 +2,9 @@
 
 ## Dependencies:
 
-ROS-Noetic
-Python
-OpenCV
+ROS-Noetic <br>
+Python <br>
+OpenCV <br>
 
 ## Goal
 It is an example of a ROS publisher and listener. Here the publisher reads a video file and publishes each frame. The listener in turn reads each frame and tries to detect the tennis ball (if any) in it.
